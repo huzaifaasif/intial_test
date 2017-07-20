@@ -2,7 +2,7 @@
 //  ahrs.cpp
 //  AHRSproject
 //
-//  Created by Huzaifa Asif on 2017-05-10.
+//  
 //  Copyright © 2017 Huzaifa Asif. All rights reserved.
 //
 
